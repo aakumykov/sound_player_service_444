@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="sound_player_service_notification" type="id" />
+    <item name="code_pause" type="id" />
+    <item name="code_stop" type="id" />
+    <item name="code_play" type="id" />
+    <item name="code_skip_next" type="id" />
+    <item name="code_skip_prev" type="id" />
+</resources>

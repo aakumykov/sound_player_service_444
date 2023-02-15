@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SOUND_PLAYER_SERVICE_notification_channel_name">Работа службы</string>
+    <string name="SOUND_PLAYER_SERVICE_notification_channel_description">Уведомления службы звука</string>
+    <string name="SOUND_PLAYER_SERVICE_foreground_notification_title">Служба плеера работает</string>
+    <string name="state_playing">Воспроизводится</string>
+    <string name="action_pause">Пауза</string>
+    <string name="action_stop">Стоп</string>
+    <string name="state_pause">Приостановлено</string>
+    <string name="action_play">Продолжить</string>
+    <string name="error">Ошибка плеера</string>
+    <string name="action_skip_next">Следующая</string>
+    <string name="action_skip_prev">Предыдущая</string>
+    <string name="no_title">Без имени</string>
+</resources>
