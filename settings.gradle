@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "sound_player_service_444"
 include ':sound_player_service_444'
+include ':app'
