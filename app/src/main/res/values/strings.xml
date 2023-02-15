@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">sound_player_service_444</string>
+    <string name="app_name">Служба_плеера_444</string>
+    <string name="skip_prev">Назад</string>
+    <string name="play_pause">Воспроизведение/пауза</string>
+    <string name="stop">Стоп</string>
+    <string name="skip_next">Вперёд</string>
+    <string name="no_track_name">Без названия</string>
+    <string name="stop_service">Остановить службу</string>
+    <string name="start_service">Запустить службу</string>
 </resources>
