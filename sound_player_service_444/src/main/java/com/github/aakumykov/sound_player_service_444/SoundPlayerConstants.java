@@ -1,6 +1,6 @@
 package com.github.aakumykov.sound_player_service_444;
 
-public class SoundPlayerConstants {
+class SoundPlayerConstants {
 
     private SoundPlayerConstants() {}
 
