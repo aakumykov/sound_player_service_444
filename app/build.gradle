@@ -50,5 +50,5 @@ dependencies {
 
     implementation 'com.github.aakumykov:misc_utils:0.0.1'
 
-    implementation 'com.github.aakumykov:sound_player_service_444:0.0.1'
+    implementation 'com.github.aakumykov:sound_player_service_444:0.0.2'
 }
