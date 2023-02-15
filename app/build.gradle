@@ -39,8 +39,6 @@ dependencies {
     implementation 'com.google.android.material:material:1.8.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
 
-    implementation project(path: ':sound_player_service_444')
-
 //    testImplementation 'junit:junit:4.13.2'
 //    androidTestImplementation 'androidx.test.ext:junit:1.1.5'
 //    androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
@@ -51,4 +49,6 @@ dependencies {
     debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.10'
 
     implementation 'com.github.aakumykov:misc_utils:0.0.1'
+
+    implementation 'com.github.aakumykov:sound_player_service_444:0.0.1'
 }
